@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "931661994357",
+    "project_id": "vamo-a-encontrarno"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931661994357:android:e7cebfcef723d6c2",
+        "android_client_info": {
+          "package_name": "com.example.dalonso.vamoaencontrarno"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbcOj2seSJ3hi-3VoAAvmmd0wHRagbc2U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
